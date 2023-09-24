@@ -155,3 +155,8 @@
 
 ![Image of a Block](blockchain/media/block information.png)
 </details>
+
+
+<div style="text-align:center;">
+$∀i ∈ [n], c_{i} = COM(v_{i}, \text{color of } v_{i})$
+</div>
