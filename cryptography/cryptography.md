@@ -13,7 +13,7 @@ colors, such that no two vertices of the same color are connected by an edge.
 
 <!-- Image need to fix as per hosting platform-->
 
-![A 3-coloring of a graph](cryptography/media/color_graph.png)
+![A 3-coloring of a graph](media/color_graph.png)
 
 In other words given a graph we denote each vertices as $v_i$ and $v_j$ where $i,j$ < $n$. If there exists an edge between $v_i$ and $v_j$ we will denote that edge as $e_{i,j}$ . We are supposed to color the graph of all vertices with only three colors $(R, G, B)$ such that no edge should have two vertices of the same color. Below are two common facts about 3-colorable graphs.
 
