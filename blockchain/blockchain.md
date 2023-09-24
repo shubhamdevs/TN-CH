@@ -73,7 +73,7 @@
 - Referenced input amount and output amount match
 
 <!-- I have to fix the image -->
-![Blockchain Overview](media/blockchain overview.png)
+![Blockchain Overview](blockchain/media/blockchain_overview.png)
 
 </details>
 
@@ -114,7 +114,7 @@
 
 <!-- Image need to fix as per hosting platform-->
 
-![Smart Contract](blockchain/media/smart contract.png)
+![Smart Contract](blockchain/media/smart_contract.png)
 
 - Smart Contract in High Level language → Compiled to Byte Code → Code is executed on Every Etherium node with EVM
 </details>
@@ -153,6 +153,6 @@
 
 <!-- Image need to fix as per the hosting platform -->
 
-![Image of a Block](blockchain/media/block information.png)
+![Image of a Block](blockchain/media/block_information.png)
 </details>
 
